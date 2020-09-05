@@ -7,6 +7,7 @@ categories: intro
 In this post I'll describe how I setup this website. For now, I'll list some of the tutorials I followed:
 
 [GitHub](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll)
+
 [ProgrammingHistorian](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)
 
 and summarize the key requirements:

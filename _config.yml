@@ -21,15 +21,13 @@
 title: Noeloikeau
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Coding tutorials, Physics PhD research, and my personal blog.
+  Coding tutorials, Physics PhD research.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Noeloikeau
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
